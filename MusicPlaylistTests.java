@@ -1,9 +1,3 @@
-// Name: Jun Bruttomesso
-// Date: 12/8/2022
-// Class: CSE 122
-// TA: Colton Harris
-// Program: OOP It!
-
 // imports used on the ED program
 // import org.junit.jupiter.api.*;
 // import static org.junit.jupiter.api.Assertions.*;

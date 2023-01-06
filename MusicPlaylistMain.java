@@ -1,8 +1,3 @@
-// Name: Jun Bruttomesso
-// Date: 12/8/2022
-// Class: CSE 122
-// TA: Colton Harris
-// Program: OOP It!
 import java.util.*;
 
 // This class is a place the user could create a music playlist. 
